@@ -26,7 +26,7 @@
 }
 
 #bcubed canvas {
-    position: relative;
+    position: absolute;
     left: 0;
     top: 0;
     display: block;
