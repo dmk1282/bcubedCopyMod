@@ -472,7 +472,8 @@
     right: 0;
     bottom: 0;
     z-index: 0;
-    transform: scale(0.25);
+    height: 25%;
+    width: 25%;
     overflow: hidden;
     margin: 0;
     padding: 0;
