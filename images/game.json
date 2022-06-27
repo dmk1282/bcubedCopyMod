@@ -1,6 +1,6 @@
 {
     "meta": {
-        "image": "game.gif"
+        "image": "game.png"
     },
     "frames": {
         "game/transparent.png": {
@@ -351,7 +351,7 @@
                 "h": 54
             }
         },
-        "game/bridge.gif": {
+        "game/bridge.png": {
             "frame": {
                 "x": 108,
                 "y": 162,
