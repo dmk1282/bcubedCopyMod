@@ -17,8 +17,8 @@
         },
         "game/teleport_top.png": {
             "frame": {
-                "x": 54,
-                "y": 0,
+                "x": 432,
+                "y": 54,
                 "w": 54,
                 "h": 54
             },
@@ -29,8 +29,8 @@
         },
         "game/teleport_sides.png": {
             "frame": {
-                "x": 108,
-                "y": 0,
+                "x": 0,
+                "y": 108,
                 "w": 54,
                 "h": 54
             },
@@ -41,8 +41,8 @@
         },
         "game/teleport_bottom.png": {
             "frame": {
-                "x": 162,
-                "y": 0,
+                "x": 54,
+                "y": 108,
                 "w": 54,
                 "h": 54
             },
