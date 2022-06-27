@@ -1,1 +1,1 @@
-https://assassin833521.github.io/bcubedCopyMod/
+https://dmk1282.github.io/bcubedCopyMod/
